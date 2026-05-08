@@ -1,0 +1,16 @@
+# Ignore build folder, except the placeholders
+# These are there to force the folder to be in the repository
+**/build/*
+!**/build/.gitplaceholder
+
+# Ignore all compiler output
+*.hex
+*.bin
+*.elf
+*.map
+*.coe
+*.*objdump*
+**/main
+
+# Ignore all simulation output
+**/simulation_output.*
