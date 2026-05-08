@@ -356,25 +356,6 @@ make sizes
 
 ---
 
-# License
-
-Add your preferred license here.
-
-Example:
-
-```text
-MIT License
-```
-
-or
-
-```text
-
-Apache 2.0
-```
-
----
-
 # Authors
 SaSu
 Electronics and ICT Engineering Technology
